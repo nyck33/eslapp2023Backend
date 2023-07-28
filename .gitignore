@@ -170,3 +170,12 @@ cython_debug/
 *.pdf
 *.zip
 
+#secret files
+*.key
+*.json
+secrets*
+*secret*
+*secrets*
+secret* 
+.env
+*.env
